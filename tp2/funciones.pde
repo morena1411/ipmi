@@ -1,0 +1,36 @@
+void reiniciar(){
+contador=0;
+estado=1;
+posXposter=0;
+posYposter=480;
+posXFondo=0;
+posYFondo=0;
+ tamXBotonI= 200;
+  tamYBotonI=80;
+  posXBotonI= width/2 - tamXBotonI/2;
+  posYBotonI = height - height/5 - tamYBotonI/2;
+vel=10;
+p2X=-208;
+p2Y=0;
+p2Alto=0;
+p2Ancho=0;
+rectX1=-630;
+rectX2=0;
+rectX3=0;
+rectY=50;
+posXTed=0;
+posYTed=480;
+tedAncho=0;
+tedAlto=0;
+posXRobin=0;
+xMarshal=-300;
+yMarshal=100;
+yBarney=100;
+xBarney=640;
+yLily=480;
+xLily=100;
+opacidad=0;
+opacidadMapeada=0;
+posYtexto=80;
+posXtexto=0;
+}
